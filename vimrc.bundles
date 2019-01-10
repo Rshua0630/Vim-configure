@@ -1,0 +1,26 @@
+
+
+
+filetype off
+    set rtp+=~/.vim/bundle/Vundle.vim/
+call vundle#rc()
+
+"vim-scripts
+Bundle 'taglist.vim'
+Bundle 'peaksea'
+Bundle 'Lucius'
+Bundle 'VimClojure'
+Bundle 'c.vim'
+Bundle 'a.vim'
+"Bundle 'taghighlight'
+
+"github other
+Bundle 'scrooloose/nerdtree'
+Bundle 'scrooloose/syntastic'
+Bundle 'kien/ctrlp.vim'
+Bundle 'Valloric/YouCompleteMe'
+"Bundle 'vim-syntastic/syntastic'
+Bundle 'bling/vim-airline'
+Bundle 'vim-airline/vim-airline-themes.git'
+Bundle 'mbbill/echofunc'
+Bundle 'benmills/vimux'

@@ -1,0 +1,11 @@
+
+"Joshua 2018年11月21日 星期三 18时09分17秒
+
+
+"airline
+set laststatus=2
+let g:airline_powerline_fonts=1
+let g:airline_theme="bubblegum"
+let g:airline#extensions#tabline#enable=1
+let g:airline#extensions#tabline#buffer_nr_show=1
+
